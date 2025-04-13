@@ -247,6 +247,7 @@ h1 {
     #inputField {
         height: 45px;
         font-size: 14px;
+        max-width: 80%;
     }
 
     #addToDo {
